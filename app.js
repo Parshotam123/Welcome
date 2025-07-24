@@ -12,6 +12,8 @@ let greeting = "Welcome back "
 
 welcomeEl.innerText = greeting + name
 
+// Welcome everyone
+
 // welcomeEl.innerText = welcomeEl.innerText + "👋" /same as given below 
 
 welcomeEl.innerText += "👋" // More simple then above and avoid repetition.
