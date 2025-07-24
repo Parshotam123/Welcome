@@ -14,6 +14,10 @@ welcomeEl.innerText = greeting + name
 
 // Welcome everyone
 
+// Thank You
+
+// JavaScript
+
 // welcomeEl.innerText = welcomeEl.innerText + "👋" /same as given below 
 
 welcomeEl.innerText += "👋" // More simple then above and avoid repetition.
